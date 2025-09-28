@@ -1,0 +1,24 @@
+{
+  "name": "docker",
+  "version": "1.0.0",
+  "description": "This README explains how to build, run, and manage a Docker container using the provided commands.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -L index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiniduOshan/Docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiniduOshan/Docker/issues"
+  },
+  "homepage": "https://github.com/MiniduOshan/Docker#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
