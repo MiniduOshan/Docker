@@ -195,11 +195,3 @@ Remove unused resources:
 ```bash
 docker system prune -a
 ```
-
----
-
-## 📝 Notes
-
-* Default working directory inside container: `/app`  
-* Replace `test-docker` or `test-docker2` with your own names  
-* With `nodemon`, any code changes restart the server automatically  
