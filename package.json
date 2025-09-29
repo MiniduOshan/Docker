@@ -1,10 +1,10 @@
 {
   "name": "docker",
   "version": "1.0.0",
-  "description": "This README explains how to build, run, and manage a Docker container using the provided commands.",
+  "description": "A simple Node.js project with GitHub Actions CI workflow",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node test/sum.test.js",
     "start": "nodemon -L index.js"
   },
   "repository": {

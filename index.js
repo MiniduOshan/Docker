@@ -1,7 +1,9 @@
 function sum(a, b) {
-      return a + b;
+  return a + b;
 }
 
-// Example usage:
+// Example usage
 const result = sum(4, 6);
 console.log('Sum:', result);
+
+module.exports = sum; // Export for testing
