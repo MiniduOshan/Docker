@@ -3,5 +3,5 @@ function sum(a, b) {
 }
 
 // Example usage:
-const result = sum(7, 8);
+const result = sum(4, 6);
 console.log('Sum:', result);
