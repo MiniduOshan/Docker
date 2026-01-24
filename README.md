@@ -225,6 +225,3 @@ docker system prune   # Clean up unused resources
 
 ---
 
-## ✅ Success
-
-Your Dockerized MERN app is now ready! Modify the code and scale as needed.
