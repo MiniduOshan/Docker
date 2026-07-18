@@ -202,15 +202,6 @@ docker-compose down         # Stop and remove all containers, networks, volumes
 
 ---
 
-## 🧪 Developer Tips
-
-### Hot Reload (Frontend)
-Vite supports hot reload out of the box.
-
-### Auto-Restart (Backend)
-Nodemon restarts the backend when code changes.
-
----
 
 ## 🔍 Useful Docker Commands
 
