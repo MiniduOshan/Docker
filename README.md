@@ -1,4 +1,4 @@
-# 🚀 Full Guide: Dockerised MERN App (Vite + Express + MongoDB + Nodemon)
+# 🚀 Full Guide: Dockerised MERN App (Vite + Express + MongoDB + Node)
 
 This repository provides a **full-stack MERN application** scaffold using:
 - **MongoDB** as the database
