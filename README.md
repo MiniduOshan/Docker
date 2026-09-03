@@ -1,6 +1,6 @@
 # 🚀 Dockerised MERN Stack Application
 
-A complete **MERN stack application** containerized using **Docker** and **Docker Compose**.
+A complete **MERN stack application** containerised using **Docker** and **Docker Compose**.
 
 This project demonstrates how to run a modern full-stack JavaScript application with:
 
@@ -218,7 +218,7 @@ Navigate into the backend directory:
 cd backend
 ```
 
-Initialize the Node.js project:
+Initialise the Node.js project:
 
 ```bash
 npm init -y
